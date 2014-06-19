@@ -2,4 +2,5 @@ WashDrop
 ========
 
 DevStage Alpha 
-Version 1.01
+Version 1.00+
+
